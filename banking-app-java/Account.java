@@ -7,7 +7,7 @@ public class Account {
     String customerName;
     String customerID;
 
-    // Clas constructor
+    // Class constructor
     Account(String cname, String cid){
         customerName = cname;
         customerID = cid;
